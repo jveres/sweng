@@ -1,6 +1,6 @@
 {
   "name": "New Document",
-  "fileHandle": {},
+  "fileHandle": null,
   "document": {
     "id": "doc",
     "name": "New Document",
@@ -312,7 +312,7 @@
               "font": "script",
               "textAlign": "start"
             },
-            "label": "solves",
+            "label": "resolve",
             "labelPoint": [
               0.5,
               0.5
@@ -371,7 +371,7 @@
               "font": "script",
               "textAlign": "start"
             },
-            "label": "relies",
+            "label": "rely",
             "labelPoint": [
               0.5,
               0.5
@@ -632,7 +632,7 @@
               "font": "script",
               "textAlign": "start"
             },
-            "label": "needs",
+            "label": "use",
             "labelPoint": [
               0.5,
               0.5
@@ -745,28 +745,6 @@
               "dash": "draw",
               "scale": 0.8364167533117305,
               "font": "mono",
-              "textAlign": "start"
-            }
-          },
-          "d063b1e9-8f7b-415d-0393-6e594236499c": {
-            "id": "d063b1e9-8f7b-415d-0393-6e594236499c",
-            "type": "text",
-            "name": "Text",
-            "parentId": "page",
-            "childIndex": 22,
-            "point": [
-              2560,
-              -224
-            ],
-            "rotation": 0,
-            "text": "Mapping the model into LSY context",
-            "style": {
-              "color": "white",
-              "size": "medium",
-              "isFilled": false,
-              "dash": "draw",
-              "scale": 1,
-              "font": "script",
               "textAlign": "start"
             }
           },
@@ -1162,15 +1140,16 @@
     "pageStates": {
       "page": {
         "id": "page",
-        "selectedIds": [],
+        "selectedIds": [
+          "7ecacfc6-37f1-41b3-1ac9-9394acc255d4"
+        ],
         "camera": {
           "point": [
-            315.91,
-            418.82
+            23.51,
+            301.43
           ],
-          "zoom": 0.6241727621037966
-        },
-        "editingId": null
+          "zoom": 0.8265107212475633
+        }
       }
     },
     "assets": {}
