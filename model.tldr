@@ -772,7 +772,7 @@
               "font": "script",
               "textAlign": "start"
             },
-            "label": "Test",
+            "label": "QA",
             "labelPoint": [
               0.5,
               0.5
@@ -1140,9 +1140,7 @@
     "pageStates": {
       "page": {
         "id": "page",
-        "selectedIds": [
-          "7ecacfc6-37f1-41b3-1ac9-9394acc255d4"
-        ],
+        "selectedIds": [],
         "camera": {
           "point": [
             23.51,
